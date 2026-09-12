@@ -16,5 +16,6 @@ dependencies = [
     "spacy>=3.8.16",
     "streamlit>=1.63.0",
     "sweetviz>=2.3.3",
+    "wordcloud>=1.9.6",
     "xgboost>=3.2.0",
 ]
