@@ -1,0 +1,20 @@
+[project]
+name = "tipicos-ods"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.3",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.16",
+    "streamlit>=1.63.0",
+    "sweetviz>=2.3.3",
+    "xgboost>=3.2.0",
+]
